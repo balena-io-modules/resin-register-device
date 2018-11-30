@@ -5,6 +5,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [5.0.0] - 2018-01-25
 
+## 5.1.0 - 2018-11-30
+
+* Add typings for project [Cameron Diver]
+
 ### Changed
 
 - Updated resin-request peer dependency to ^9.0.2
