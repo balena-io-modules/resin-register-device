@@ -5,6 +5,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [5.0.0] - 2018-01-25
 
+# v6.1.4
+## (2020-05-21)
+
+* Check for statusCode when error is thrown when provisioning device [Miguel Casqueira]
+* Extend API exception to include full response object [Miguel Casqueira]
+* Convert tests to js [Thodoris Greasidis]
+
 # v6.1.3
 ## (2020-05-20)
 
